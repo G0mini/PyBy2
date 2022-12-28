@@ -1,8 +1,10 @@
 # PyBy2
 
 ## 项目介绍
+### PyBy--谐音(开摆)。目的是为了更简单，更方便。
 ### 持续对一些工具进行一些修改。使其更简单,更方便。
 ### 表哥的start是我坚持的动力。
+### 使用过程中存在任何问题请联系--支持更新。
 
 # ruoyi
 
@@ -29,6 +31,10 @@ python3 main.py ip port
 ```
 微信小程序_一健化工具_支持分包
 ```
+##详细使用方法，可参考b站视频
+```
+https://www.bilibili.com/video/BV1QK411B7ST/?vd_source=cf1ca615cd7585ca648b5c5cbeaacb82
+```
 ### 利用方式
 ```
 本地安装好反编译需要的环境--百度文章很多
@@ -37,3 +43,5 @@ python3 main.py ip port
 path.txt放入微信小程序的路径
 python3 main.py wxid 
 ```
+![image](https://user-images.githubusercontent.com/31945727/209744801-e2d1111c-8b9e-4465-be85-e2097b8fae2d.png)
+
