@@ -120,7 +120,7 @@ def handle_generate_command(args):
 
     # 编译打包
     os.system(f'javac {java_file}')
-    jar_name = 'ruoyi.jar' if args.os.lower() == 'win' else 'ruoyi-linux.jar'
+    jar_name = 'ruoyi.jar' if args.os.lower() == 'win' else 'ruoyi.jar'
     os.system(f'jar -cvf {jar_name} -C src/ .')
 
     # 输出结果
